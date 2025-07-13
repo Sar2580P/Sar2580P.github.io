@@ -24,7 +24,7 @@ main:
     url: /_posts/
     
   - title: "CV"
-    url: "/files/ATS_Friendly_Technical_Resume.pdf/"
+    url: "/files/ATS_Friendly_Technical_Resume.pdf"
     
   # - title: "CV"
   #   url: /cv-json/
